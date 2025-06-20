@@ -1,3 +1,6 @@
 # my-first-code
-"my first project on GitHub"
-my name is megha 
+this is my first git Reprostory.
+<br>
+Author - megha (student)
+
+
